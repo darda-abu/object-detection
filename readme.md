@@ -13,4 +13,4 @@ python .\object_detection.py
 3. Labeled boxes around detected objects will be generated in the [cv_advanced_output](cv_advanced_output) directory.
 
 example:
-![albeled](cv_advanced_output\cat_dog.jpg)
+![albeled](https://github.com/darda-abu/object-detection/blob/master/cv_advanced_output/cat_dog.jpg)
